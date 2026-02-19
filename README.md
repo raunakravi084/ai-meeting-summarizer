@@ -80,7 +80,7 @@ screenshots/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/ai-meeting-summarizer.git
+git clone https://github.com/raunakravi084/ai-meeting-summarizer.git
 cd ai-meeting-summarizer
 ```
 
@@ -359,7 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: your-email@example.com
+- Email: raunakravi084@gmail.com
 
 ---
 
@@ -369,4 +369,4 @@ If this project helped you, please give it a ⭐!
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Raunak Ravi**
