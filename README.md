@@ -61,7 +61,7 @@ screenshots/
 
 ### AI Services
 - **Deepgram API** - Speech-to-text transcription
-- **Euron.one API** - GPT-4.1 mini for summarization and action item extraction
+- **ChatGPT API** - GPT-4.1 mini for summarization and action item extraction
 - **Deep Translator** - Multi-language translation
 
 ### Frontend
